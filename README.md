@@ -29,54 +29,54 @@ are safe and clean to use.
 
 ## Team Effort:
 
-    *Randa 
+* Randa 
 
-        -post creation form
-        -routes
-        -Mocha_Chai testing
-        -Heroku Deployment
+    -post creation form
+    -routes
+    -Mocha_Chai testing
+    -Heroku Deployment
+    -Cartoon Avatar NPM Package
+
+* Dylan
+
+    -Login credentials
+    -routes
+    -models
+    -Heroku Deployment
+
+* Kade
+
+    -user html
+    -sign/login html
+    -Display post html
         -Cartoon Avatar NPM Package
 
-    *Dylan
+* Luke
 
-        -Login credentials
-        -routes
-        -models
-        -Heroku Deployment
-
-    *Kade
-
-        -user html
-        -sign/login html
-        -Display post html
-        -Cartoon Avatar NPM Package
-
-    *Luke
-
-        -DataBase
-        -ReadMe
-        -models
+    -DataBase
+    -ReadMe
+    -models
 
 ## Individual Responsibilities / Challenges - 
 
-    *Dylan
+* Dylan
 
-        -I was responsible for working on the routes and models with Luke as well as adding and logging in users that are stored in the database.  I faced a lot of challenges with the authentication switching from session to jwt to passport just to get the project working correctly.  One improvement I would like to see for this app is a map that allows users to track and pin where they have "flushed" and be able to display it on their profiles.
+    -I was responsible for working on the routes and models with Luke as well asadding and logging in users that are stored in the database.  I faced a lot ofchallenges with the authentication switching from session to jwt to passportjust to get the project working correctly.  One improvement I would like to seefor this app is a map that allows users to track and pin where they have"flushed" and be able to display it on their profiles.
     
-    *kade
+* kade
 
-        -Responsibilities: User html, sign/login html, display post html, and cartoon avatar
-        -I have had issues with getting javascript codes to work on the html pages and look the way they should
+    -Responsibilities: User html, sign/login html, display post html, and cartoonavatar
+    -I have had issues with getting javascript codes to work on the html pages andlook the way they should
 
-    *Randa
+* Randa
 
-        -Responsibilities: API Routes for Posts, Post Creation Form, Mocha-Chai Testing, Heroku Deployment,JawsDB   setup, and Cartoon Avatar NPM Package.
-        -Setting up the Mocha-Chai configuration to run the specific 5.1.0 version, accept the correct BDD styling, and to ignore eslint errors while testing.
+    -Responsibilities: API Routes for Posts, Post Creation Form, Mocha-Chai Testing Heroku Deployment,JawsDB   setup, and Cartoon Avatar NPM Package.
+    -Setting up the Mocha-Chai configuration to run the specific 5.1.0 version,accept the correct BDD styling, and to ignore eslint errors while testing.
     
-    *Luke
+* Luke
 
-        -I was responsible in getting the database, readMe, and models with Dylan.
-        -I had issues in writing some of the post models code where I need it to be. also in get the readMe to      display right. 
+    -I was responsible in getting the database, readMe, and models with Dylan.
+    -I had issues in writing some of the post models code where I need it to be.also in get the readMe to      display right. 
         
      
 
@@ -96,25 +96,22 @@ are safe and clean to use.
 
 1.![alt text]()
 
-2.![alt text]()
 
 #### Deployment:
 
-    *API 
+* API Passport for login authentication
         
-
-    *MySQL Database - Stores info on all restrooms
-        Sequelize ORM
+* MySQL Database - Stores info on all restrooms Sequelize ORM
     
-    *Cartoon Avatar NPM Package
+* Cartoon Avatar NPM Package
 
-    *bcryptjs
+* Heroku
 
-    *Heroku
+* Javascript
 
-    *Javascript
+* JSON
 
-    *JSON
-
-    *JAWS DB
+* JAWS DB
+    
+* Bootstrap
 
